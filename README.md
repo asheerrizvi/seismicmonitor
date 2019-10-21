@@ -1,4 +1,4 @@
-# seismicmonitor
+# Seismic Monitor
 
 Seismic Monitor is a Java Application utilizing the UnfoldingMaps library for monitoring earthquakes around the world and categorize them according to their magnitude and location. This applicatin can also visualize other data on geographical maps including Airline routes.
 
